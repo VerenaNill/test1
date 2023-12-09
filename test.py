@@ -2,7 +2,7 @@
 a = int(input("Wert fuer a: "))
 b = int(input("Wert fuer b: "))
 c = int(input("Wert fuer c: "))
-d = int(input("Wert fuer d: "))
+d = int(input("Wert fuer d: ")) 
 v = int(input("Wert fuer v: "))
 
 ergebnis_1 = bool(not a and not b)
