@@ -1,5 +1,5 @@
 #hallo 
-a = int(input("Werte fuer a: "))
+a = int(input("Wert_ fuer a: "))
 b = int(input("Wert fuer b: "))
 c = int(input("Wert fuer c: "))
 d = int(input("Wert fuer d: ")) 
