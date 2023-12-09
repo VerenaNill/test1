@@ -21,5 +21,5 @@ print("Ergebnis 4:", ergebnis_4)
 print("Ergebnis 5:", ergebnis_5)
 print("Ergebnis 6:", ergebnis_6)
 print("Ergebnis 7:", ergebnis_7)
-print("Ergebnis 8:", ergebnis_8)
+print("Ergebnis 8:", ergebnis_8)
 
